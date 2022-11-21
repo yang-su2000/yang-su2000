@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 Hi there! I am a self-motivated software and machine learning engineer, a student researcher in graph machine learning and natural language processing at Cornell Tech.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-su2000&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-su2000&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=300)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
 
 ### Grinding Zone
