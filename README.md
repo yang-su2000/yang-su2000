@@ -23,9 +23,31 @@ Here are some ideas to get you started:
 
 🔭 Hi there! I am a self-motivated software and machine learning engineer, a student researcher in graph machine learning, NLP, and VR at Cornell Tech.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-su2000&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
+<p align="left">
+  <a href="https://leetcode.com/shinever/">
+    <img src="https://cp-logo.vercel.app/leetcode/shinever" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/shinever">
+    <img src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/yang-su2000/">
+    <img src="https://komarev.com/ghpvc/?username=yang-su2000" alt="visitors" />
+  </a>
+
+</p>
+
+<b>⚡ Developer Zone</b>
+<p float="left">
+<img height="250em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="250em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
+
+<b>&#128200; Grinding Zone</b>
+<p float="left">
+<img height="340em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
+<img height="345em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
+</p>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-su2000&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
-
-### Grinding Zone
-
-![LeetCode stats](https://leetcard.jacoblin.cool/shinever?theme=dark&ext=contest)
+![LeetCode stats](https://leetcard.jacoblin.cool/shinever?theme=dark&ext=contest) -->
