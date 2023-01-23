@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 <b>⚡ Developer Zone</b>
 <p float="left">
-<img height="250em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="250em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
 <b>&#128200; Grinding Zone</b>
 <p float="left">
-<img height="340em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
-<img height="345em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
+<img height="300em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
+<img height="305em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-su2000&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
