@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <b>⚡ Developer Zone</b>
 <p float="left">
 <img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&hide=jupyter%20notebook&custom_title=Top%20Languages&langs_count=3" />
+<img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&hide=jupyter%20notebook&custom_title=Top%20Languages&langs_count=4" />
 <!-- <img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/> -->
 </p>
 
