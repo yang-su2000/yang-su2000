@@ -47,15 +47,15 @@ Lastly, I have some side interests in competitive programming and always be attr
 
 <b>⚡ Developer Zone</b>
 <p float="left">
-<img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img width="350em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <!-- <img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" /> -->
-<img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img width="350em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
 <b>&#128200; Grinding Zone</b>
 <p float="left">
-<img height="295em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
-<img height="275em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
+<img width="350em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
+<img width="400em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
 </p>
 
 <!-- ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=shinever) -->
