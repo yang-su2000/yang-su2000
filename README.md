@@ -54,8 +54,8 @@ Lastly, I have some side interests in competitive programming and always be attr
 
 <b>&#128200; Grinding Zone</b>
 <p float="left">
-<img height="300em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
-<img height="305em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
+<img height="295em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
+<img height="275em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
 </p>
 
 <!-- ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=shinever) -->
