@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/yang-su2000)](https://www.github.com/yang-su2000)
+<!-- [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/yang-su2000)](https://www.github.com/yang-su2000)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yang-su2000/)](https://www.linkedin.com/in/yang-su2000/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/shinever)](https://leetcode.com/shinever)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-D9534F?style=flat&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/shinever)](https://codeforces.com/profile/shinever)
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/YangSu2000)](https://twitter.com/YangSu2000)
-
+ -->
 🔭 Hi there! I am an MS student from Cornell University with a strong self-motivation in software engineering and applied research experience in graph machine learning, time series, NLP, and XR.
 
 <!-- Interned as a software engineer at the Amazon AI lab, I focused on using static and dynamic graph-structured data to improve downstream time-series tasks' performance and stability. I conducted academic research and industrial engineering solutions using knowledge graph embeddings and spatio-temporal graph neural networks to enhance AWS sales prediction results. Throughout the internship, I demonstrated the ability to develop technically sound and reliable software in real-world, large-scale applications. 
