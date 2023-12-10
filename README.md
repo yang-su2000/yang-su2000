@@ -23,9 +23,11 @@ Here are some ideas to get you started:
  -->
 Hi there! I am an MS student from Cornell University with a strong technical background in language model training and application.
 
-I am recently very interested in building efficient agent LLMs in interactive environments.
+I have recently become very interested in building efficient agent LLMs in interactive environments like game engines and virtual environments: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
-I used to work on graph machine learning & time series prediction at Amazon AI Labs.
+I am working on some funky old-school NLP research on retrieval and ranking systems (moving forward to LLMs too 👀): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
+
+I used to work on graph machine learning & time series prediction at Amazon AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
 
 <!-- Interned as a software engineer at the Amazon AI lab, I focused on using static and dynamic graph-structured data to improve downstream time-series tasks' performance and stability. I conducted academic research and industrial engineering solutions using knowledge graph embeddings and spatio-temporal graph neural networks to enhance AWS sales prediction results. Throughout the internship, I demonstrated the ability to develop technically sound and reliable software in real-world, large-scale applications. 
 
