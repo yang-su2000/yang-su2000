@@ -29,7 +29,9 @@ I am working on some funky old-school NLP research (moving forward to LLMs too ð
 
 I used to work on graph machine learning & time series prediction at Amazon AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
 
-I causally do some competitive programming for fun: [cout << "Accepted\n";](https://codeforces.com/profile/shinever)
+I casually do some competitive programming for fun: [cout << "Accepted" << endl;](https://codeforces.com/profile/shinever)
+
+I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
 
 <!-- Interned as a software engineer at the Amazon AI lab, I focused on using static and dynamic graph-structured data to improve downstream time-series tasks' performance and stability. I conducted academic research and industrial engineering solutions using knowledge graph embeddings and spatio-temporal graph neural networks to enhance AWS sales prediction results. Throughout the internship, I demonstrated the ability to develop technically sound and reliable software in real-world, large-scale applications. 
 
