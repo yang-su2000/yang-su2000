@@ -29,7 +29,7 @@ I am working on some funky old-school NLP research (moving forward to LLMs too ð
 
 I used to work on graph machine learning & time series prediction at Amazon AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
 
-I casually do some competitive programming for fun: [cout << "Accepted" << endl;](https://codeforces.com/profile/shinever)
+I do some competitive programming for fun: [cout << "accepted" << endl;](https://codeforces.com/profile/shinever)
 
 I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
 
