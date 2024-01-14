@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  -->
 Hi there! I am an MS student from Cornell University, focusing on language model training and application.
 
-I have recently become very interested in building efficient agent LLMs in interactive environments, specifically in game engines: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I have recently been very interested in building efficient agent LLMs in interactive environments, specifically in game engines: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
 I am working on some funky old-school NLP research (moving forward to LLMs too 👀): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
