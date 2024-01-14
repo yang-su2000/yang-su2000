@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [![CodeForces](https://img.shields.io/badge/-CodeForces-D9534F?style=flat&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/shinever)](https://codeforces.com/profile/shinever)
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/YangSu2000)](https://twitter.com/YangSu2000)
  -->
-Hi there! I am an MS student from Cornell University with a strong technical background in language model training and application.
+Hi there! I am an MS student from Cornell University, focusing on language model training and application.
 
-I have recently become very interested in building efficient agent LLMs in game engines: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I have recently become very interested in building efficient agent LLMs in interactive environments, specifically in game engines: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
 I am working on some funky old-school NLP research (moving forward to LLMs too 👀): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
