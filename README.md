@@ -27,7 +27,7 @@ I have recently been very interested in building efficient LLMs in interactive e
 
 I am working on some funky old-school NLP research (moving forward to LLMs too 👀): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
-I used to work on graph machine learning & time series prediction at Amazon AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
+I used to work on graph machine learning & time series prediction at AWS AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
 
 I do some competitive programming for fun: [cout << "accepted" << endl;](https://codeforces.com/profile/shinever)
 
