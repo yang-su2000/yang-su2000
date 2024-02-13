@@ -23,11 +23,11 @@ Here are some ideas to get you started:
  -->
 Hi there! I am an MS student from Cornell University, focusing on language model training and application.
 
-I have recently been very interested in building efficient LLMs in interactive environments, specifically in game engines: [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I have recently been very interested in building efficient LLMs in interactive environments, specifically in game engines (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
-I am working on some funky old-school NLP research (moving forward to LLMs too 👀): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
+I am also working on large-scale text retrieval and generation system with Prof. Alexander M. Rush at Cornell Tech (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
-I used to work on graph machine learning & time series prediction at AWS AI Labs: [Deep Graph Library](https://github.com/dmlc/dgl)
+I used to work on graph machine learning & time series prediction at AWS AI Labs (2021-2022): [Deep Graph Library](https://github.com/dmlc/dgl)
 
 I do some competitive programming for fun: [cout << "accepted" << endl;](https://codeforces.com/profile/shinever)
 
