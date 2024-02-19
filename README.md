@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  -->
 Hi there! I am an MS student from Cornell University, focusing on language model training and application.
 
-I am very interested in building efficient LLMs in interactive environments, specifically in game engines (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I am building efficient LLMs in interactive physics engines with alignment training and code execution (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
 I am also working on large-scale retrieval and generation system with Prof. Alexander Rush (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
