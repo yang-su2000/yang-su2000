@@ -25,9 +25,9 @@ Hi there! I am an MS student from Cornell, focusing on language model training a
 [![CodeForces](https://img.shields.io/badge/-CodeForces-D9534F?style=flat&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/shinever)](https://codeforces.com/profile/shinever)
  -->
 
-I am building efficient LLMs in interactive physics engines with alignment training and code execution (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I am building efficient LLMs in interactive physics engines with alignment training and code execution at Cornell XRC (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
-I am also working on large-scale retrieval and generation system with Prof. Alexander Rush (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
+I am also working on large-scale retrieval and generation system with at Cornell NLP (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
 I used to work on graph machine learning & time series prediction at AWS AI Labs (2021-2022): [Deep Graph Library](https://github.com/dmlc/dgl)
 
