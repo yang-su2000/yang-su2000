@@ -31,7 +31,7 @@ I am building [efficient LLMs in game engines](https://arxiv.org/abs/2310.00092)
 
 I am also working on large-scale retrieval and generation system at [Cornell NLP](https://nlp.cornell.edu/people/) (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
-I used to work on graph machine learning & time series prediction at [AWS AI Labs](https://www.amazonaws.cn/en/ailab/) (2021-2022): [Deep Graph Library](https://github.com/dmlc/dgl)
+I used to work on graph machine learning at [AWS AI Labs](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to [Deep Graph Library](https://github.com/dmlc/dgl)
 
 <b> 👀 Chilling Zone </b>
 
