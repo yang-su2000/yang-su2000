@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am an MS student from Cornell, focusing on language model training and application. I am also happy to chat and discuss potential collaborations, feel free to reach out by:
+Hi there! I am an MS student from Cornell, focusing on **language modeling** and their application.
+
+I am happy to chat and discuss potential collaborations, feel free to reach out by
 
 [![Linkedin](https://img.shields.io/badge/-Yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yang-su2000/)](https://www.linkedin.com/in/yang-su2000/) 
 [![Twitter](https://img.shields.io/badge/-YangSu2000-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/YangSu2000)](https://twitter.com/YangSu2000)
