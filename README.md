@@ -25,19 +25,23 @@ Hi there! I am an MS student from Cornell, focusing on language model training a
 [![CodeForces](https://img.shields.io/badge/-CodeForces-D9534F?style=flat&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/shinever)](https://codeforces.com/profile/shinever)
  -->
 
-I am building **efficient LLMs in game engines** for interactive code execution at *Cornell XRC* (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+<b> 🌟 Studying Zone </b>
 
-I am also working on large-scale retrieval and generation system at *Cornell NLP* (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
+I am building [efficient LLMs in game engines](https://arxiv.org/abs/2310.00092) for interactive code execution at [Cornell XRC](https://xr.cornell.edu/collaboratory) (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
-I used to work on graph machine learning & time series prediction at *AWS AI Labs* (2021-2022): [Deep Graph Library](https://github.com/dmlc/dgl)
+I am also working on large-scale retrieval and generation system with [Cornell NLP](https://nlp.cornell.edu/people/) (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
-I do some competitive programming for fun: [cout << "accepted" << endl;](https://codeforces.com/profile/shinever)
+I used to work on graph machine learning & time series prediction at [AWS AI Labs](https://www.amazonaws.cn/en/ailab/) (2021-2022): [Deep Graph Library](https://github.com/dmlc/dgl)
 
-I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
+<b> 👀 Chilling Zone </b>
+
+I like programming! I lead the "Cornell Tech" Group at [Cornell ICPC](https://www.cs.cornell.edu/acm/) and won the [Top 20% in 2023 Regional](http://acmgnyr.org/year2023/scoreboard_final/index.html)!
 
 [![LeetCode](https://cp-logo.vercel.app/leetcode/shinever)](https://leetcode.com/shinever/)
 [![CodeForces](https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/shinever)
 [![Visitors](https://komarev.com/ghpvc/?username=yang-su2000)](https://github.com/yang-su2000/)
+
+I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
 
 <b>⚡ Developing Zone</b>
 <p float="left">
@@ -46,7 +50,7 @@ I enjoy cooking, listening to music of all forms, playing ping-pong, reading sci
 <img width="375em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
-<b>&#128200; Coding Zone</b>
+<b>&#128200; "Accepted" Zone</b>
 <p float="left">
 <img width="350em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
 <img width="400em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
