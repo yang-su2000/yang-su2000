@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am an MS student from Cornell, focusing on **language modeling** and their application.
+Hi there! I am an MS student from Cornell, focusing on efficient **language modeling** in interactive environments.
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
