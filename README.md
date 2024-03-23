@@ -29,7 +29,7 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 <b> 🌟 Studying Zone </b>
 
-I am building [efficient LLMs in game engines](https://arxiv.org/abs/2310.00092) for interactive code execution at [Cornell XRC](https://xr.cornell.edu/collaboratory) (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I am building [Efficient LLMs in Game Engines](https://arxiv.org/abs/2310.00092) for interactive code execution at [Cornell XRC](https://xr.cornell.edu/collaboratory) (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
 
 I am also working on large-scale retrieval and generation system at [Cornell NLP](https://nlp.cornell.edu/people/) (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
 
