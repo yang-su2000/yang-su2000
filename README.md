@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am an MS student from Cornell, focusing on efficient **language modeling** in interactive environments.
+Hi there! I am an MS student from Cornell, focusing on efficient, scalable language modeling and agent systems.
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
@@ -30,11 +30,19 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 <b> 🌟 Studying Zone </b>
 
-I am building [Efficient LLMs in Game Engines](https://arxiv.org/abs/2310.00092) for interactive code execution at [Cornell XRC](https://xr.cornell.edu/collaboratory) (2023-): [Voice2Action](https://github.com/yang-su2000/VR-Multimodal-Interaction)
+I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **efficient LLMs for code and data generation**.
+- This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), you can find more about it in this [Google Slide](https://docs.google.com/presentation/d/1Vu_EC45E6E3Mp4qcJCS1o8OCzTEnmqRfoa6K_Ef2onM/edit?usp=sharing).
+- The ALICE project aims to build *actually usable* (i.e. low-cost, efficient) code generation system in large-scale interactive environments.
+- We are currently experimenting the physics engine environment due to its simulation and feedback loop flexibility.
+- ALICE is expected to expand to other domains like robotics simulation, VR, autonomous driving, etc.
 
-I am also working on large-scale retrieval and generation system at [Cornell NLP](https://nlp.cornell.edu/people/) (2023-): [Authorship Attribution](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link)
+***We are actively looking for brilliant people to join the ALICE project, shoot me an email if you are interested!***
 
-I used to work on graph machine learning at [AWS AI Labs](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to [Deep Graph Library](https://github.com/dmlc/dgl)
+Previously, I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an open source Unity Package for real-time code execution in VR.
+
+I am also working on large-scale [generation augmented retrieval systems](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link) (Yes! opposed to RAG) at [Cornell NLP](https://nlp.cornell.edu/).
+
+I used to work on graph machine learning at [AWS AI Lab](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to the open source library [DGL (Deep Graph Library)](https://github.com/dmlc/dgl).
 
 <b> 👀 Chilling Zone </b>
 
