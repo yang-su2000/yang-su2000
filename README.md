@@ -38,11 +38,11 @@ I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Mil
 
 ***We are actively looking for brilliant people to join the ALICE project, shoot me an email if you are interested!***
 
-Previously, I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an open source Unity Package for real-time code execution in VR.
+Previously, I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an Unity Package for real-time code execution in VR.
 
 I am also working on large-scale [generation augmented retrieval systems](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link) (Yes! opposed to RAG) at [Cornell NLP](https://nlp.cornell.edu/).
 
-I used to work on graph machine learning at [AWS AI Lab](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to the open source library [DGL (Deep Graph Library)](https://github.com/dmlc/dgl).
+I used to work on graph machine learning at [AWS AI Lab](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to the open source [Deep Graph Library](https://github.com/dmlc/dgl).
 
 <b> 👀 Chilling Zone </b>
 
