@@ -35,7 +35,7 @@ I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Mil
 - ALICE aims to build *actually usable* (i.e. low-cost, efficient) code generation system in large-scale interactive environments.
 - We are currently experimenting the physics engine environment due to its simulation and feedback loop flexibility.
 - ALICE is expected to expand to other domains like robotics simulation, VR, autonomous driving, etc.
-- Borader Impact: ALICE is able to generate high-quality synthetic data with active human intervention, opposed to SORA.
+- Borader Impact: ALICE can generate high-quality synthetic data with active human intervention, for training LLMs.
 
 ***We are actively looking for brilliant people to join the ALICE project, shoot me an email if you are interested!***
 
