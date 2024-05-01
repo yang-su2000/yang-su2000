@@ -32,7 +32,7 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **efficient LLMs for code and data generation**.
 - This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), you can find more about it in this [Google Slide](https://docs.google.com/presentation/d/1Vu_EC45E6E3Mp4qcJCS1o8OCzTEnmqRfoa6K_Ef2onM/edit?usp=sharing).
-- The ALICE project aims to build *actually usable* (i.e. low-cost, efficient) code generation system in large-scale interactive environments.
+- ALICE aims to build *actually usable* (i.e. low-cost, efficient) code generation system in large-scale interactive environments.
 - We are currently experimenting the physics engine environment due to its simulation and feedback loop flexibility.
 - ALICE is expected to expand to other domains like robotics simulation, VR, autonomous driving, etc.
 
