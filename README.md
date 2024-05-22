@@ -31,7 +31,7 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 <b> 🌟 Studying Zone </b>
 
 I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **efficient LLMs for code and data generation**.
-- This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), you can find more about it at [alicellm.github.io](https://alicellm.github.io).
+- This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), you can find more about it at [**alicellm.github.io**](https://alicellm.github.io).
 - [**Demo**](https://drive.google.com/file/d/1WQyXTJ0Mb6GPep-aIsmwMvYXEUKPvjHm/view?usp=drive_link) (3D Terrain Generation via. User Instruction)
 - ALICE is a *meta-agent collaboration system* that generates high-quality data through multi-turn interactions and feedback.
 - It produces data with traces from agent strategies like ReAct and Reflexion, which are scarce but offer potential for aligning advanced LLMs.
