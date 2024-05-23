@@ -32,8 +32,8 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **efficient LLMs for code and data generation**.
 - This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), find more about it at [**alicellm.github.io**](https://alicellm.github.io).
-- ALICE is a *meta-agent collaboration system* that generates high-quality data through multi-turn interactions and feedback.
-- It produces data with traces from agent strategies like ReAct and Reflexion, which are scarce but offer potential for aligning advanced LLMs.
+- ALICE is a *meta-agent collaboration system* that generates high-quality data through multi-turn interactions and feedback without human intervention.
+- It produces multimodal data with traces from agent strategies like ReAct and Reflexion, which are scarce but offer potential for aligning advanced LLMs.
 
 Previously, I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an Unity Package for real-time code execution in VR.
 
