@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am an MS student from Cornell, focusing on scalable language modeling, data generation, and agent systems.
+Hi there! I currently focus on building multi-agent systems to generate synthetic data for LLM post-training and alignment.
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
