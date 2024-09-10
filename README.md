@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I currently focus on building multi-agent systems to generate synthetic data for LLM post-training and alignment.
+Hi there! I am currently working on LLM alignment & agent systems at [Qwen](https://qwenlm.github.io/).
+Some topics I focus on includes...
+- synthetic data generation
+- automatic evaluation & reward systems
+- role-playing & memory
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
