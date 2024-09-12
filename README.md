@@ -34,16 +34,14 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 <b> 🌟 Studying Zone </b>
 
-I am collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **LLMs for code and data generation**.
+(2024-) I am part-time collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **LLMs for code and data generation**.
 - This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), find more about it at [**alicellm.github.io**](https://alicellm.github.io).
 - ALICE is a *meta-agent collaboration system* that generates high-quality data through multi-turn interactions and feedback without human intervention.
 - It produces multimodal data with traces from agent strategies like ReAct and Reflexion, which are scarce but offer potential for aligning advanced LLMs.
 
-Previously, I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an Unity Package for real-time code execution in VR.
+(2023-2024) I I led the prior work of ALICE called [Voice2Action](https://github.com/yang-su2000/Voice2Action) with [Cornell XRC](https://xr.cornell.edu/collaboratory), an Unity Package for real-time code execution in VR; and studied on large-scale [generation augmented retrieval systems](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link) (opposed to RAG) at [Cornell NLP](https://nlp.cornell.edu/).
 
-I studied on large-scale [generation augmented retrieval systems](https://drive.google.com/file/d/1Gz3ZR95sBKAnPyzTlQi5HqO8tzzE_qQs/view?usp=drive_link) (opposed to RAG) at [Cornell NLP](https://nlp.cornell.edu/).
-
-I used to work on graph machine learning at [AWS AI Lab](https://www.amazonaws.cn/en/ailab/) (2021-2022) and contribute to the open source [Deep Graph Library](https://github.com/dmlc/dgl).
+(2021-2022) I interned on graph machine learning at [AWS AI Lab](https://www.amazonaws.cn/en/ailab/) and contributed to the open source [Deep Graph Library](https://github.com/dmlc/dgl).
 
 <b> 👀 Chilling Zone </b>
 
