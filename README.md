@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen Team](https://qwenlm.github.io/).
 Some topics I focus on includes...
-- synthetic data generation
-- automatic evaluation & reward systems
+- data generation via agent system
+- code evaluation & reward system
 - role-playing & memory
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
