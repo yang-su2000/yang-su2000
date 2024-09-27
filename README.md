@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen Team](https://qwenlm.github.io/).
 Some topics I focus on includes...
 - process verifiable trajectory generation
-- role-playing alignment & evaluation
+- personalization alignment & evaluation
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
