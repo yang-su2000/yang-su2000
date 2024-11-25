@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 ### Welcome to Yang's GitHub
 
 Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen Team](https://qwenlm.github.io/).
-Some topics I focus on includes...
+Some topics I currently focus on
 - process verifiable trajectory generation
-- personalization alignment & evaluation
+- complex instruction following
+- personalization & memory system
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
