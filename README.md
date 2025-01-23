@@ -19,7 +19,7 @@ Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen 
 Some topics I currently focus on
 - structured outputs & complex instruction following
 - personalization & user preference learning
-- agent alignment & self-play algorithms
+- rl agent alignment & self-play
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
