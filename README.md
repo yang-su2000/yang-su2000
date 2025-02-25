@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen Team](https://qwenlm.github.io/).
 Some topics I currently focus on
-- structured outputs & complex instruction following
-- personalization & user preference learning
-- rl agent alignment & tool calling
+- rl agent alignment, tool-calling and self-play algorithms
+- personalization, memory and consciousness
+- structured outputs and complex instruction following
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
