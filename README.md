@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am currently working on **LLMs alignment & agent systems** at [Qwen Team](https://qwen.readthedocs.io/en/latest/).
-Some topics I currently focus on
-- rl reasoning and agent alignment
+Hi there! I am now dedicated to work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwen.readthedocs.io/en/latest/).
+Some topics I am interested includes
+- rl reasoning, general and agent alignment
 - personalization, memory, and self-play algorithms
 - structured outputs and complex instruction following
 
