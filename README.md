@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 ### Welcome to Yang's GitHub
 
 Hi there! I am now dedicated to work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwen.readthedocs.io/en/latest/).
-Some topics I am interested includes
-- rl reasoning, general and agent alignment
+
+Some topics I am interested in includes
+- rl reasoning, general and agent alignment (data, reward, infra)
 - personalization, memory, and self-play algorithms
 - structured outputs and complex instruction following
 
