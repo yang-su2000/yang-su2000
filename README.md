@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am currently dedicated to work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwen.readthedocs.io/en/latest/).
+Hi there! I am currently dedicated to work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
 - rl reasoning, general and agent alignment (data, reward, infra)
