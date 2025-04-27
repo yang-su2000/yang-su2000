@@ -20,7 +20,7 @@ Hi there! I am currently dedicated to work on **long-horizon agent alignment** t
 Some topics I am interested in include
 - rl reasoning, environment, agent alignment (data, reward, infra), and self-play algorithms
 - personalization, memory and self-awareness
-- symbolic augmented generation, world modeling
+- symbolic systems and stochastic systems
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
