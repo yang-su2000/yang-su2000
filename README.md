@@ -19,7 +19,7 @@ Hi there! I am currently dedicated to work on **long-horizon agent alignment** t
 
 Some topics I am interested in include
 - rl reasoning, agent alignment (data, reward, tool/env infra), and self-play algorithms
-- personalization, roleplaying and memory
+- personalization, memory and consciousness
 - structured outputs and complex instruction following
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
