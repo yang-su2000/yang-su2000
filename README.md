@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am currently dedicated to work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I currently work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
 - rl reasoning, environment, agent alignment (data, reward, infra), and self-play algorithms
@@ -48,9 +48,11 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 I like programming! I lead the "Cornell Tech" Group at [Cornell ICPC](https://www.cs.cornell.edu/acm/) and won the [Top 20% in 2023 Regional](http://acmgnyr.org/year2023/scoreboard_final/index.html)!
 
+<!-- 
 [![LeetCode](https://cp-logo.vercel.app/leetcode/shinever)](https://leetcode.com/shinever/)
 [![CodeForces](https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/shinever)
 [![Visitors](https://komarev.com/ghpvc/?username=yang-su2000)](https://github.com/yang-su2000/)
+ -->
 
 I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
 
