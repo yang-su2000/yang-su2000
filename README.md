@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi there! I currently work on **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
-- rl reasoning and agent alignment (data, reward, infra)
+- code rl and agent rl alignment (data, reward, infra)
 - environment alignment and self-play algorithms
-- personalization, memory and self-awareness
+- personalization, memory and long-term task optimization
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
