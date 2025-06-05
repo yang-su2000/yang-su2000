@@ -19,8 +19,8 @@ Hi there! I currently work on multimodal **long-horizon agent alignment** throug
 
 Some topics I am interested in include
 - code rl and agent rl alignment (data, reward, infra)
+- personalization, memory and active learning algorithms
 - environment alignment and self-play algorithms
-- personalization, memory and long-term task optimization
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
