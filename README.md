@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I currently work on multimodal **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I am the lead contributor on multimodal **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
 - code rl and agent rl alignment (data, reward, infra)
