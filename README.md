@@ -48,13 +48,11 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 I like programming! I lead the "Cornell Tech" Group at [Cornell ICPC](https://www.cs.cornell.edu/acm/) and won the [Top 20% in 2023 Regional](http://acmgnyr.org/year2023/scoreboard_final/index.html)!
 
-<!-- 
+I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
+
 [![LeetCode](https://cp-logo.vercel.app/leetcode/shinever)](https://leetcode.com/shinever/)
 [![CodeForces](https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/shinever)
 [![Visitors](https://komarev.com/ghpvc/?username=yang-su2000)](https://github.com/yang-su2000/)
- -->
-
-I enjoy cooking, listening to music of all forms, playing ping-pong, reading science fiction, and more!
 
 <b>⚡ Developing Zone</b>
 <p float="left">
@@ -63,11 +61,13 @@ I enjoy cooking, listening to music of all forms, playing ping-pong, reading sci
 <img width="375em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
+<!-- 
 <b>&#128200; "Accepted" Zone</b>
 <p float="left">
 <img width="350em" src="https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest" />
 <img width="400em" src="https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg" />
 </p>
+ -->
 
 <!-- ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=shinever) -->
 
