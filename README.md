@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am the lead contributor on multimodal **long-horizon agent alignment** through reinforcement learning at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I am currently leading agentic mid-training and long-horizon agent rl at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
-- code rl and agent rl alignment (data, reward, infra)
-- personalization, memory and active learning algorithms
+- code rl and agent rl (data, reward, infra)
+- memory (long session, cross session - personalization) algorithms
 - environment alignment and self-play algorithms
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
