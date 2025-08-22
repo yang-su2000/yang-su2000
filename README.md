@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Hi there! I am currently leading agentic mid-training and long-horizon agent rl at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
-- code and agent rl (data, reward, infra)
-- memory (long session, cross session - personalization)
+- code and agent rl (multi-agent training)
+- persistent memory rl (multi-context training)
 - environment alignment (self-play data sythesization)
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
