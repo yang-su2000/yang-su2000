@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am currently leading agentic mid-training and long-horizon agent rl at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I am the leading explorer in agentic mid-training and long-horizon agent rl at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
 - code and agent rl (multi-agent training)
