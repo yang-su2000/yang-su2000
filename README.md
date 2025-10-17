@@ -37,7 +37,9 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 (2025.06) My thought about [agentic rl training](https://romantic-euphonium-dbb.notion.site/talk-about-agent-cn).
 
-(2024-) I am part-time collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **LLMs for code and data generation**.
+(2024.09-) I joined [Qwen Team](https://qwenlm.github.io/) as a research engineer 🥝!
+
+(2024.01-) I am part-time collaborating with [Cornell ICPC](https://www.cs.cornell.edu/acm/) and [Millennium](https://www.mlp.com/) to build **LLMs for code and data generation**.
 - This work is called **ALICE** (**A**ligning **L**anguage models for **I**nteractive **C**ode **E**xecution), find more about it at [**alicellm.github.io**](https://alicellm.github.io).
 - ALICE is a *meta-agent collaboration system* that generates high-quality data through multi-turn interactions and feedback without human intervention.
 - It produces multimodal data with traces from agent strategies like ReAct and Reflexion, which are scarce but offer potential for aligning advanced LLMs.
