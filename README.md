@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Hi there! I am a leading explorer on fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
-- code/tool centric agentic rl (multi-agent training)
-- persistent memory rl (multi-context training)
+- code/tool centric agentic rl (via collaborative/adversarial training)
+- context/memory rl (online learning algorithms)
 - environment alignment (self-evolve and scaling algorithms)
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
