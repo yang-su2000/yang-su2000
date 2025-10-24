@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am a leading explorer in long-horizon agent rl and agentic mid-training at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I am a leading explorer on fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
-- code and agent rl (multi-agent training)
+- code/tool centric agentic rl (multi-agent training)
 - persistent memory rl (multi-context training)
-- environment alignment (self-play data sythesization)
+- environment alignment (self-evolve and scaling algorithms)
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
