@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I am a leading explorer on fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I am leading fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
 
 Some topics I am interested in include
 - code/tool centric agentic rl
