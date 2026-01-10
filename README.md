@@ -19,8 +19,8 @@ Hi there! I am a leading explorer on fundamental agentic research at [Qwen Team]
 
 Some topics I am interested in include
 - code/tool centric agentic rl
-- active context/memory learning, online learning
-- environment alignment, self-evolve and scaling algorithms
+- context/memory rl, active experience learning
+- environment scaling rl from pre-training
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
