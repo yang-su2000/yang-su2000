@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 Hi there! I lead fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
 
+Some projects I worked on before
+- Qwen3.5 environment scaling
+- Qwen2.5/QwQ/Qwen3 general agent
+
 Some topics I am interested in include
 - code/tool centric agentic rl
 - context/memory rl, active experience learning
-- environment scaling rl from pre-training
+- scaling rl from pre-training
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
