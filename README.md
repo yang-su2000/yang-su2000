@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Welcome to Yang's GitHub
 
-Hi there! I lead fundamental agentic research at [Qwen Team](https://qwenlm.github.io/).
+Hi there! I lead fundamental agent research at [Qwen Team](https://qwenlm.github.io/).
 
 Some projects I worked on before
 - Qwen3.5 environment scaling
