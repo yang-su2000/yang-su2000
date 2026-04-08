@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 Hi there! I lead fundamental agent research at [Qwen Team](https://qwenlm.github.io/).
 
-Some projects I worked on before
-- Qwen3.5 environment scaling
-- Qwen2.5/QwQ/Qwen3 general agent
-
 Some topics I am interested in include
 - code/tool centric agentic rl
 - context/memory rl, active experience learning
@@ -38,6 +34,8 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
  -->
 
 <b> 🌟 Studying Zone </b>
+
+(2026.02) I made [Qwen3.5 environment scaling](https://qwen.ai/blog?id=qwen3.5#:~:text=Compared%20to%20the,upcoming%20technical%20report.) work!
 
 (2025.06) My thought about [agentic rl training](https://romantic-euphonium-dbb.notion.site/talk-about-agent-cn).
 
