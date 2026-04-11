@@ -19,8 +19,8 @@ Hi there! I lead fundamental agent research at [Qwen Team](https://qwenlm.github
 
 Some topics I am interested in include
 - code/tool centric agentic rl
-- context/memory rl, active experience learning
 - scaling rl from pre-training
+- self-research
 
 I am happy to chat and discuss potential collaborations, feel free to reach out by
 
