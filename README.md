@@ -36,6 +36,8 @@ I am happy to chat and discuss potential collaborations, feel free to reach out 
 
 <b> 🌟 Studying Zone </b>
 
+(2026.05) We achieved predictive agentic performance generalization by extending [Qwen3.7 agent scaling](https://qwen.ai/blog?id=qwen3.7#:~:text=Agent%20Scaling,upcoming%20technical%20report.)!
+
 (2026.02) I made [Qwen3.5 environment scaling](https://qwen.ai/blog?id=qwen3.5#:~:text=Compared%20to%20the,upcoming%20technical%20report.) work!
 
 (2025.06) My thought about [agentic rl training](https://romantic-euphonium-dbb.notion.site/talk-about-agent-cn).
